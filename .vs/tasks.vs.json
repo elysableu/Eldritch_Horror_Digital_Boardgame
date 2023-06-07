@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Player",
+      "appliesTo": "Player.cs",
+      "type": "launch"
+    }
+  ]
+}
