@@ -1,4 +1,6 @@
-﻿/// <summary>
+﻿//using System;
+
+/// <summary>
 /// Template for Player cards
 /// </summary>
 public class Player
