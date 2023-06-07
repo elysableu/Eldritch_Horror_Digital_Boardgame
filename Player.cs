@@ -72,4 +72,10 @@ public class Player
 
 	}
 
+    static void main(string[] args)
+    {
+        Console.WriteLine("hello")
+
+    }
+
 }

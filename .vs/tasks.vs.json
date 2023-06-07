@@ -5,6 +5,11 @@
       "taskLabel": "task-Player",
       "appliesTo": "Player.cs",
       "type": "launch"
+    },
+    {
+      "taskLabel": "task-Player",
+      "appliesTo": "Player.cs",
+      "type": "launch"
     }
   ]
 }
