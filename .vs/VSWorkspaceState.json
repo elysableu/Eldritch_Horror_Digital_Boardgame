@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Transcriptions",
+    "\\Transcriptions\\Character_Cards"
   ],
-  "SelectedNode": "\\Player.cs",
+  "SelectedNode": "\\Transcriptions\\Character_Cards\\Shaman.txt",
   "PreviewInSolutionExplorer": false
 }
