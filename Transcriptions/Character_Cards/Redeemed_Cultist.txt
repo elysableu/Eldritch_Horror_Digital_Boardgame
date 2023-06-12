@@ -1,0 +1,25 @@
+The Redeemed Cultist *
+Diana Stanley *
+If there is a Cultist Monster on your space, discard all Monsters on your space or move the Cultist Monster to any other space. *
+Reduce the horror of the Monsters you encounter to 1. *
+"The lodge is not as innocent as they pretend. I have learned that nothing is ever as it seems, myself included." *
+7 *
+5 *
+4 *
+2 *
+3 *
+3 *
+1 *
+Central America *
+Space 7 *
+1 Arcane Manuscripts Asset *
+1 Wither Spell *
+When Diana was initiated into the Order of the Silver Twilight, she believed it to be nothing more that a community organization. But as she has learned more of its true nature, she has become convinced that a growing evil threatens that world, and that the Silver Twilight will play a role in that threat. She believes her best chance to prevent this is to use her position to sabotage the organization from within. Carl Sanford, the head of the Order, has recognized her skills and recently sent her to Panama for additional training. *
+In her hospital, Diana tells you to pick up your things and bids you farewell. Gain all of her possessions. You infer that she is being watched. Using your knowledge of the Silver Twilight, you try to determine which doctors can be trusted ({}). *
+If you pass, you move Diana to a new hospital and she shares her secrets with you; retreat Doom by 1. *
+If you fail, Diana remains under the Lodge's watchful eye. *
+Whether you pass or not, discard her Invistgator token. *
+It's obviously Diana, but she claims to be a woman named Iris who has lived in this city her whole life. In her trash, you find Diana's things. Gain all of her possessions. It's clear that she has disassociated from her former life. You share all of your memoeries of Diana to restore her identity ({}). *
+If you pass, she tells you of the horrors that brought her to this state; retreat Doom by 1. *
+If you fail, Diana sternly askes you to leave her alone. *
+Whether you pass or not, discard her Investigator token. *

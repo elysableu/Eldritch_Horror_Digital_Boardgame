@@ -1,0 +1,25 @@
+The Soldier *
+Mark Harrigan *
+You and 1 Monster on your space each lose 1 Health. *
+You cannot become Delayed or gain a Detained Condition unless you choose to. *
+"I'm walking out that door, and I'm taking this book. Anyone who wants to stop me is welcome to try." *
+8 *
+4 *
+1 *
+2 *
+3 *
+4 *
+4 *
+Northern Europe *
+Space 14 *
+1 .38 Revolver Asset *
+1 Kerosene Asset *
+During the was, Mark witnessed horrors he could not explain, and he wrote of what he saw in letters to his beloved wife, Sophie. When Mark returned home, he discovered that Sophie was no longer human. One of the beasts that Mark had seen overseas had taken over her body, killing her in the process. Afterward, Mark's thirst for vengeance lead him to Helsinki, where some of there creatures had posed as German soldiers during the Great War. *
+While youare collecting Mark's things, you smell smoke in the hospital. Gain all of his possessions. The hospital has been set on fire, and you run to Mark's room and try to carry him safety ({STRENGTH}). *
+If you pass, Mark is able to tell you who set the fire; retreat Doom by 1. *
+If you fail, the smoke overcomes Mark, and he dies outside the hospital. *
+Whether you pass or not, discard his Investigator token. *
+You take custody of Mark's belongings and arrange to visit him in the asylum. Gain all of his possessions. To your dismay, Mark is convinced that you are a creature disguising itself as a human. You do your best to convince him that you are telling the truth ({INFLUENCE}). *
+If you pass, he shows you sketches he made of the horrible monsters that he's been hunting; retreat Doom by 1. *
+If you fail, Mark screams accusations of murder at you. *
+Whether you pass or not, discard his Investigator token. *

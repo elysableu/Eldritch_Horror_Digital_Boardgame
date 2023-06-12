@@ -1,0 +1,25 @@
+The Expedition Leader *
+Leo Anderson *
+Test ({INFLUENCE}). *
+If you pass, gain 1 Ally Asset from the reserve or the discard pile. *
+If you are on a Wilderness space, investigators on your space roll 1 additional die when resolving tests. *
+"Keep moving, You can die on your own time." *
+6 *
+6 *
+2 *
+2 *
+3 *
+3 *
+3 *
+Buenos Aires, Argentina *
+Space ... *
+1 Hired Muscle Asset *
+Leo Anderson has spent his whole life getting into the deadliest and most obscure corners of the globe. Along the way, he's lost good people. Fever takes some; others are claimed by wild beasts. After a recent, disactrous venture in the Yucatan, Leo barely made it back to Buenos Aires alive. He's sick of burying the people who trusted him. But the job's not done yet. The world is in danger, and crying in his drink won't fix that. He's picked up a little hired help here, and in the morning, he'll head back out into the wild. *
+"It's all in the drawer," Leo tells you. "Take it and leave me here to die. I deserve it." Gain all of his possessions. Leo's injuries have left him bedridden and in agony in this hotel. Worse, he's lost his will to live. You try to convince him that he hasn't failed his friends ({INFLUENCE}). *
+If you pass, he draws you several maps and promises to let you check hi m into a hospital; retreat Doom by 1. *
+If you fail, he never speaks to you again. *
+Whether you pass or not, discard his Investigator token. *
+You find Leo's canvas bag in his hotel room. Gain all of his possessions. While you are distracted, Leo attacks you. His face is covered in tribal markings, and he speaks a hodgepodge of tribal dialects. You try to subdue him ({STRENGTH}). *
+If you pass, you get Leo at an asylum, and the doctors learn some of what happened to him; retreat Doom by 1. *
+If you fail, Leo is gone when you regain consciousness. *
+Whether you pass or not, discard his Investigator. *
