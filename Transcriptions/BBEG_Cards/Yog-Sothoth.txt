@@ -1,0 +1,26 @@
+Yog-Sothoth *
+The Lurker at the Threshold *
+Each investigator on a space containing a Gate advances Doom by 1 unless he discards 1 Spell. *
+When 3 Mysteries have been solved, investigators win the game. *
+When Yog-Sothoth awakens, flip this sheet. *
+For eons, sorcerers have called upon the power of Yog-Sothoth to bend reality to their will. This imcomprehensible Ancient One exists parallel to all places and times, but is bound to the space between dimensions. Gates between worlds continue to open with more frequency and soon, Yog-Sothoth will be free. *
+... ... *
+... 1 *
+1 *
+If you defeat this Monster during a Combat Encounter, lose 1 Sanity and gain 1 Spell. *
+Set aside all Yog-Sothoth Special Encounter cards. *
+0 2 1 *
+2 3 1 *
+3 4 0 *
+* * *
+The Key and the Gate *
+Final Mystery *
+The ancient horror tears apart the walls between worlds, pouring itself through the cracks in reality. *
+If 3 Mysteries have been solved, as an encounter, an investigator on a space containing a Gate may confront Yog-Sothoth by resolving a The Key and the Gate Special Encounter. *
+When there are Eldritch tokens on this sheet equal to half ({number of players}), the Final Mystery is solved and investigators win the game. *
+Lurker at The Threshold *
+Each time a Gate would cause Doom to advance, place that Gate on this sheet instead. Each time any other effect would cause Doom to advance, place 1 Gate from the Gate stack on this sheet instead. Then, if there are 3 or more Gates on this sheet, investigators lose the game. *
+Each investigator on a space containing a Gate places that Gate on this sheet unless he discards 1 Spell. *
+... ... *
+-1 1 *
+Before resolving the ({STRENGTH}) test, lose 1 Sanity for each Spell you have. *
